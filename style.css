@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.form {
+    background-color: aqua;
+    width: 300px;
+    border: 2px solid rgb(83, 83, 167);
+    padding-left: 15px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
